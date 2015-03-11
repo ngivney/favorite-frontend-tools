@@ -18,7 +18,9 @@ Fork this repository and issue a pull request if you'd like to contribute to thi
 11. Interesting Articles
 12. Misc. Front-End Tools
 13. Browser Plugins
+
 ***
+
 ##Code Validators and Linters
 - W3C Markup Validation Service: <http://validator.w3.org/>
 Checks your HTML for errors.
