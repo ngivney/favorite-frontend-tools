@@ -20,12 +20,26 @@ Fork this repository and issue a pull request if you'd like to contribute to thi
 13. Browser Plugins
 ***
 ##Code Validators and Linters
+- W3C Markup Validation Service: <http://validator.w3.org/>
+Checks your HTML for errors.
+- W3C CSS Validation Service: <http://jigsaw.w3.org/css-validator/>
+Checks your CSS for errors.
 
 ##CSS Tools
+- CSS3 Generator: <http://css3generator.com/>
+Easily generate code for CSS3 effects.
+- MDN CSS Selector Reference: <https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started/Selectors>
+- W3Schools CSS Properties Reference: <http://www.w3schools.com/cssref/>
 
 ##Design Tools
+- Adobe Color CC: <https://color.adobe.com>
+Create, save, and download custom color themes.
 
 ##Front End Frameworks
+- Twitter Bootstrap: <http://getbootstrap.com>
+- Foundation: <http://foundation.zurb.com/>
+- Skeleton: <http://getskeleton.com>
+- HTML Kickstart: <http://www.99lime.com/elements/>
 
 ##JavaScript Libraries
 
