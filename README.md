@@ -22,63 +22,61 @@ Fork this repository and issue a pull request if you'd like to contribute to thi
 ***
 
 ##Code Validators and Linters
-W3C Markup Validation Service: <http://validator.w3.org/>
-Checks your HTML for errors.
+**W3C Markup Validation Service**: <http://validator.w3.org/>
+  * Checks your HTML for errors.
 
-W3C CSS Validation Service: <http://jigsaw.w3.org/css-validator/>
-Checks your CSS for errors.
+**W3C CSS Validation Service**: <http://jigsaw.w3.org/css-validator/>
+  * Checks your CSS for errors.
 
 ##CSS Tools
-CSS3 Generator: <http://css3generator.com/>
-Easily generate code for CSS3 effects.
+**CSS3 Generator**: <http://css3generator.com/>
+  * Easily generate code for CSS3 effects.
 
-MDN CSS Selector Reference:
-<https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started/Selectors>
+**MDN CSS Selector Reference**: <https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started/Selectors>
 
-W3Schools CSS Properties Reference: <http://www.w3schools.com/cssref/>
+**W3Schools CSS Properties Reference**: <http://www.w3schools.com/cssref/>
 
 ##CSS Methodologies and Guides
-SMACSS | Scalable and Modular Architecture for CSS:
+**SMACSS | Scalable and Modular Architecture for CSS**:
 <https://smacss.com/>
 
-Smashing Magazine | Introduction to Object Oriented CSS (OOCSS):
-<https://http://www.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss/>
+**Smashing Magazine | Introduction to Object Oriented CSS (OOCSS)**:
+<http://www.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss/>
 
-Smashing Magazine | BEM. A New Front End Methodology:
+**Smashing Magazine | BEM. A New Front End Methodology**:
 <http://www.smashingmagazine.com/2012/04/16/a-new-front-end-methodology-bem/>
 
-BEM Method - Official: <https://en.bem.info/method/>
+**BEM Method - Official**: <https://en.bem.info/method/>
 
 ##Design Tools
-Adobe Color CC: <https://color.adobe.com>
-Create, save, and download custom color themes.
+**Adobe Color CC**: <https://color.adobe.com>
+  * Create, save, and download custom color themes.
 
 ##Front End Frameworks
-Twitter Bootstrap: <http://getbootstrap.com>
+**Twitter Bootstrap**: <http://getbootstrap.com>
 
-Foundation: <http://foundation.zurb.com/>
+**Foundation**: <http://foundation.zurb.com/>
 
-Skeleton: <http://getskeleton.com>
+**Skeleton**: <http://getskeleton.com>
 
 ##JavaScript Libraries
-stellar.js: <http://markdalgleish.com/projects/stellar.js/>
-JS plugin for easy and mobile-friendly parallax effects.
+**stellar.js**: <http://markdalgleish.com/projects/stellar.js/>
+  * JS plugin for easy and mobile-friendly parallax effects.
 
-parallax.js: <http://matthew.wagerfield.com/parallax/>
-Parallax effect that responds to device tilt or cursor position.
+**parallax.js**: <http://matthew.wagerfield.com/parallax/>
+  * Parallax effect that responds to device tilt or cursor position.
 
-Lightbox: <http://lokeshdhakar.com/projects/lightbox2/>
-jQuery plugin to create responsive image galleries.
+**Lightbox**: <http://lokeshdhakar.com/projects/lightbox2/>
+  * jQuery plugin to create responsive image galleries.
 
-supersized.js: <http://buildinternet.com/project/supersized/>
-Responsive, full screen background images and galleries built with jQuery,
+**supersized.js**: <http://buildinternet.com/project/supersized/>
+  * Responsive, full screen background images and galleries built with jQuery,
 
-jQuery UI: <http://jqueryui.com/>
-Interactive User Interface elements built on top of the jQuery library.
+**jQuery UI**: <http://jqueryui.com/>
+  * Interactive User Interface elements built on top of the jQuery library.
 
 ##Tutorials
-CSS Tricks | A Complete Guide to Flexbox:
-<https://css-tricks.com/snippets/css/a-guide-to-flexbox/>
+**CSS Tricks | A Complete Guide to Flexbox**: <https://css-tricks.com/snippets/css/a-guide-to-flexbox/>
 
 ##Documentation
 
