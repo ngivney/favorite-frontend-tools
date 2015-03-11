@@ -23,10 +23,9 @@ Fork this repository and issue a pull request if you'd like to contribute to thi
 
 ##Code Validators and Linters
 - W3C Markup Validation Service: <http://validator.w3.org/>
-
-Checks your HTML for errors.
+  Checks your HTML for errors.
 - W3C CSS Validation Service: <http://jigsaw.w3.org/css-validator/>  return
-Checks your CSS for errors.
+  Checks your CSS for errors.
 
 ##CSS Tools
 - CSS3 Generator: <http://css3generator.com/>  return
