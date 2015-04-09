@@ -91,3 +91,5 @@ Fork this repository and issue a pull request if you'd like to contribute to thi
 ##Misc. Front End Tools
 
 ##Browser Plugins
+Firefox Eyedropper: <https://developer.mozilla.org/en-US/docs/Tools/Eyedropper/>
+ * The Eyedropper tool enables you to select colors in the current page.*
