@@ -52,6 +52,9 @@ Fork this repository and issue a pull request if you'd like to contribute to thi
 **Adobe Color CC**: <https://color.adobe.com>
   * Create, save, and download custom color themes.
 
+**GIMP**: <http://www.gimp.org/>
+  * GIMP is the GNU Image Manipulation Program. It is a freely distributed piece of software for such tasks as photo retouching, image composition and image authoring.
+
 ##Front End Frameworks
 **Twitter Bootstrap**: <http://getbootstrap.com>
 
