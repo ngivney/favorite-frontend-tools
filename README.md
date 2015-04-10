@@ -88,6 +88,14 @@ Fork this repository and issue a pull request if you'd like to contribute to thi
 ##Advanced Topics (for DDC Week 10)
 
 ##SEO
+**Submit Your Site to Search Engines**: <http://www.w3schools.com/website/web_search.asp>
+  * Learn how to submit your websites to search engines. Provides links to register with the current most used search engines.
+
+**Online SEO Website Tools**: <http://www.alexa.com/>
+  *Alexa Traffic Rank is a rough measure of a website's popularity.
+  
+  <https://www.woorank.com/>
+  *Allows Web publishers and marketers to evaluate the SEO-friendliness of a Website.
 
 ##Interesting Articles
 
@@ -96,3 +104,4 @@ Fork this repository and issue a pull request if you'd like to contribute to thi
 ##Browser Plugins
 **Firefox Eyedropper**: <https://developer.mozilla.org/en-US/docs/Tools/Eyedropper/>
  * The Eyedropper tool enables you to select colors in the current page.
+ 
