@@ -91,11 +91,11 @@ Fork this repository and issue a pull request if you'd like to contribute to thi
 **Submit Your Site to Search Engines**: <http://www.w3schools.com/website/web_search.asp>
   * Learn how to submit your websites to search engines. Provides links to register with the current most used search engines.
 
-**Online SEO Website Tools**: <http://www.alexa.com/>
-  *Alexa Traffic Rank is a rough measure of a website's popularity.
+**Alexa Online SEO Website Tools**: <http://www.alexa.com/>
+  * Alexa Traffic Rank is a rough measure of a website's popularity.
   
-  <https://www.woorank.com/>
-  *Allows Web publishers and marketers to evaluate the SEO-friendliness of a Website.
+**Woorank Online SEO Website Tools**: <https://www.woorank.com/>
+  * Allows Web publishers and marketers to evaluate the SEO-friendliness of a Website.
 
 ##Interesting Articles
 
